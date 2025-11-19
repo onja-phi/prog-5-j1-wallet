@@ -1,9 +1,6 @@
 package org.example.prog5_wallet.entity;
 
 public class Wallet {
-    /*Portefeuille : couleur, porteCarte, poids, marque
-	    methodes : getMoney, addMoney, checkMoney, addCard, lost
-    * */
     private String color;
     private boolean portCard;
     private double mass;
